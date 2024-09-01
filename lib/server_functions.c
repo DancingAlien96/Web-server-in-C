@@ -4,6 +4,7 @@
 #include <string.h>
 #include <unistd.h>
 #include <arpa/inet.h>
+#include "log.h"
 
 int srv_init(int port) {
     int server_fd;
@@ -45,8 +46,10 @@ int srv_accept_client(int server_fd) {
     if ((new_socket = accept(server_fd, (struct sockaddr *)&address, (socklen_t*)&addrlen)) < 0) {
         perror("Error en accept");
         exit(EXIT_FAILURE);
+        log_error("ha ocurrido un error y ha sido notificado");
     }
 
+    log_event("conexion existosa y ha sido notificad!");
     printf("Nueva conexión desde %s:%d\n", inet_ntoa(address.sin_addr), ntohs(address.sin_port));
     return new_socket;
 }
