@@ -4,3 +4,66 @@
 [2024-09-04 02:02:48] Evento: Iniciando el servidor...
 [2024-09-04 02:02:48] Evento: Servidor escuchando en el puerto.
 [2024-09-04 02:03:24] Evento: Nueva conexión desde 127.0.0.1:57476
+[2024-09-04 02:32:30] Evento: Iniciando el servidor...
+[2024-09-04 02:32:30] Evento: Servidor escuchando en el puerto.
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41908
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41908 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41910
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41910 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41924
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41924 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41928
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41928 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41944
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41944 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41950
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41950 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41962
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41962 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41972
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41972 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41974
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41974 solicita / con el método GET
+[2024-09-04 02:32:42] Evento: Nueva conexión desde 127.0.0.1:41988
+[2024-09-04 02:32:42] Evento: El cliente 127.0.0.1:41988 solicita / con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38372
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38372 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38382
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38382 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38398
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38398 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38412
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38412 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38428
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38428 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38430
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38430 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38442
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38442 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38454
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38454 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38458
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38458 solicita /test con el método GET
+[2024-09-04 02:33:25] Evento: Nueva conexión desde 127.0.0.1:38470
+[2024-09-04 02:33:25] Evento: El cliente 127.0.0.1:38470 solicita /test con el método GET
+[2024-09-04 02:39:35] Evento: Nueva conexión desde 127.0.0.1:36110
+[2024-09-04 02:39:35] Evento: El cliente 127.0.0.1:36110 solicita /test con el método GET
+[2024-09-04 02:40:04] Evento: Nueva conexión desde 127.0.0.1:42818
+[2024-09-04 02:40:04] Evento: El cliente 127.0.0.1:42818 solicita /test con el método GET
+[2024-09-04 02:40:45] Evento: Iniciando el servidor...
+[2024-09-04 02:40:50] Evento: Iniciando el servidor...
+[2024-09-04 02:40:51] Evento: Iniciando el servidor...
+[2024-09-04 02:40:52] Evento: Iniciando el servidor...
+[2024-09-04 02:40:53] Evento: Iniciando el servidor...
+[2024-09-04 02:40:58] Evento: Iniciando el servidor...
+[2024-09-04 02:40:59] Evento: Iniciando el servidor...
+[2024-09-04 02:41:00] Evento: Iniciando el servidor...
+[2024-09-04 02:41:04] Evento: Iniciando el servidor...
+[2024-09-04 02:41:05] Evento: Iniciando el servidor...
+[2024-09-04 02:41:21] Evento: Iniciando el servidor...
+[2024-09-04 02:41:21] Evento: Servidor escuchando en el puerto.
+[2024-09-04 02:41:31] Evento: Nueva conexión desde 127.0.0.1:34516
+[2024-09-04 02:41:31] Evento: El cliente 127.0.0.1:34516 solicita /test con el método GET
+[2024-09-04 02:41:57] Evento: Nueva conexión desde 127.0.0.1:52638
+[2024-09-04 02:41:57] Evento: El cliente 127.0.0.1:52638 solicita /players con el método GET
+[2024-09-04 02:42:11] Evento: Nueva conexión desde 127.0.0.1:43264
