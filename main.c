@@ -5,14 +5,14 @@
 int main(int argc, char const *argv[]) {
     int server_fd, new_socket;
 
-    // inicializar el servidor con puerto 
+    // Inicializar el servidor
+    log_event("Iniciando el servidor...");
     server_fd = srv_init(PORT);
 
     while (1) {
-        //aceptar las nuevas conexiones
-        new_socket = srv_accept_client(server_fd);
+      
+       new_socket = srv_accept_client(server_fd);
         
-
     }
 
     return 0;

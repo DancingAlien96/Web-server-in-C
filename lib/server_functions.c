@@ -12,7 +12,7 @@ int srv_init(int port) {
 
     // Crear el socket
     if ((server_fd = socket(AF_INET, SOCK_STREAM, 0)) == 0) {
-        perror("Error al crear el socket");
+        log_error("Error al crear el socket");
         exit(EXIT_FAILURE);
     }
 
@@ -23,17 +23,17 @@ int srv_init(int port) {
 
     // Vincular el socket con el puerto
     if (bind(server_fd, (struct sockaddr *)&address, sizeof(address)) < 0) {
-        perror("Error en bind");
+        log_error("Error en bind");
         exit(EXIT_FAILURE);
     }
 
     // Poner el socket en modo pasivo (escuchando)
     if (listen(server_fd, 3) < 0) {
-        perror("Error en listen");
+        log_error("Error en listen");
         exit(EXIT_FAILURE);
     }
 
-    printf("Servidor escuchando en el puerto %d\n", port);
+    log_event("Servidor escuchando en el puerto.");
     return server_fd;
 }
 
@@ -44,12 +44,13 @@ int srv_accept_client(int server_fd) {
 
     // Aceptar una nueva conexión
     if ((new_socket = accept(server_fd, (struct sockaddr *)&address, (socklen_t*)&addrlen)) < 0) {
-        perror("Error en accept");
+        log_error("Error en accept");
         exit(EXIT_FAILURE);
-        log_error("ha ocurrido un error y ha sido notificado");
     }
 
-    log_event("conexion existosa y ha sido notificad!");
-    printf("Nueva conexión desde %s:%d\n", inet_ntoa(address.sin_addr), ntohs(address.sin_port));
+    char log_msg[256];
+    sprintf(log_msg, "Nueva conexión desde %s:%d", inet_ntoa(address.sin_addr), ntohs(address.sin_port));
+    log_event(log_msg);
+
     return new_socket;
 }
