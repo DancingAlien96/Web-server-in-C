@@ -10,5 +10,6 @@ typedef struct {
 
 void srv_handle_client(int client_socket);
 void parse_request(const char *request, http_req *req);
+void http_response(int client_socket, int http_code, const char *content_type, const char *body);
 
 #endif

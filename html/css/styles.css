@@ -1,0 +1,15 @@
+.container{
+    display: flex;
+    justify-content: center;
+}
+
+.title{
+    background-color: white
+}
+
+body{
+    background: #8E0E00;
+  background: linear-gradient(
+    to right,
+    #8E0E00,#1F1C18)
+}
