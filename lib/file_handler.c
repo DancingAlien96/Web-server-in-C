@@ -18,7 +18,7 @@ int get_file_contents(const char *url, char **content, int *http_code) {
     }
 
     // Intenta abrir el archivo
-    file = fopen(path, "r");
+    file = fopen(path, "rb");
     if (file == NULL) {
         *http_code = 404;
         return -1;  // Devuelve error si no se puede abrir el archivo
@@ -44,4 +44,23 @@ int get_file_contents(const char *url, char **content, int *http_code) {
     *http_code = 200;
     fclose(file);
     return 0;
+}
+
+
+const char* get_mime_type(const char* url) {
+    if (strstr(url, ".html") != NULL) {
+        return "text/html";
+    } else if (strstr(url, ".css") != NULL) {
+        return "text/css";
+    } else if (strstr(url, ".js") != NULL) {
+        return "application/javascript";
+    } else if (strstr(url, ".png") != NULL) {
+        return "image/png";
+    } else if (strstr(url, ".jpg") != NULL || strstr(url, ".jpeg") != NULL) {
+        return "image/jpeg";
+    } else if (strstr(url, ".gif") != NULL) {
+        return "image/gif";
+    } else {
+        return "application/octet-stream";  // Tipo de contenido por defecto
+    }
 }

@@ -28,22 +28,27 @@ void srv_handle_client(int client_socket) {
     // Obtener el contenido del archivo solicitado
     get_file_contents(req.url, &content, &http_code);
 
-    // Verificar si es un archivo CSS o HTML
-    const char *content_type;
-    if (strstr(req.url, ".css") != NULL) {
-        content_type = "text/css";
+    // Obtener el tipo MIME del archivo solicitado
+    const char *content_type = get_mime_type(req.url);
+
+    // Registrar en los logs el archivo que se está sirviendo
+    if (http_code == 200) {
+        char log_msg[512];
+        snprintf(log_msg, sizeof(log_msg), "Sirviendo archivo: %s", req.url);
+        log_event(log_msg);
     } else {
-        content_type = "text/html";
+        char log_msg[512];
+        snprintf(log_msg, sizeof(log_msg), "Error al servir: %s (Código: %d)", req.url, http_code);
+        log_error(log_msg);
     }
 
-    // Llamar a la función http_response con el tipo de contenido adecuado
+    // Enviar la respuesta HTTP
     http_response(client_socket, http_code, content_type, content);
 
     if (content != NULL) {
         free(content);
     }
 }
-
 
 void parse_request(const char *request, http_req *req) {
     sscanf(request, "%s %s", req->method, req->url);

@@ -1,0 +1,35 @@
+[2024-09-19 22:32:43] Evento: Iniciando el servidor...
+[2024-09-19 22:32:43] Evento: Servidor escuchando en el puerto.
+[2024-09-19 22:33:44] Evento: Nueva conexión desde 127.0.0.1:50832
+[2024-09-19 22:33:44] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-09-19 22:33:44] Evento: Nueva conexión desde 127.0.0.1:50844
+[2024-09-19 22:33:44] Evento: Sirviendo archivo: /sitio1/estilositio1.css
+[2024-09-19 22:33:44] Evento: Nueva conexión desde 127.0.0.1:50856
+[2024-09-19 22:33:44] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-09-19 22:33:45] Evento: Nueva conexión desde 127.0.0.1:50870
+[2024-09-19 22:41:58] Evento: Iniciando el servidor...
+[2024-09-19 22:41:58] Evento: Servidor escuchando en el puerto.
+[2024-09-19 22:47:16] Evento: Nueva conexión desde 127.0.0.1:37736
+[2024-09-19 22:47:16] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-09-19 22:47:16] Evento: Nueva conexión desde 127.0.0.1:37752
+[2024-09-19 22:47:16] Evento: Sirviendo archivo: /sitio1/estilositio1.css
+[2024-09-19 22:47:16] Evento: Nueva conexión desde 127.0.0.1:37760
+[2024-09-19 22:47:16] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-09-19 22:47:17] Evento: Nueva conexión desde 127.0.0.1:37764
+[2024-09-19 22:47:17] Evento: Sirviendo archivo: /favicon.ico
+[2024-09-19 23:30:58] Evento: Iniciando el servidor...
+[2024-09-19 23:30:58] Evento: Servidor escuchando en el puerto.
+[2024-09-19 23:31:09] Evento: Nueva conexión desde 127.0.0.1:32908
+[2024-09-19 23:31:46] Evento: Iniciando el servidor...
+[2024-09-19 23:31:46] Evento: Servidor escuchando en el puerto.
+[2024-09-19 23:32:23] Evento: Iniciando el servidor...
+[2024-09-19 23:32:23] Evento: Servidor escuchando en el puerto.
+[2024-09-19 23:32:35] Evento: Nueva conexión desde 127.0.0.1:47930
+[2024-09-19 23:40:05] Evento: Iniciando el servidor...
+[2024-09-19 23:40:05] Evento: Servidor escuchando en el puerto.
+[2024-09-19 23:40:13] Evento: Nueva conexión desde 127.0.0.1:60334
+[2024-09-19 23:40:14] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-09-19 23:40:15] Evento: Nueva conexión desde 127.0.0.1:44936
+[2024-09-19 23:40:15] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-09-19 23:40:15] Evento: Nueva conexión desde 127.0.0.1:44938
+[2024-09-19 23:40:15] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
