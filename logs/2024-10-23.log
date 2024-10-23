@@ -1,0 +1,395 @@
+[2024-10-23 00:00:31] Evento: Iniciando el servidor...
+[2024-10-23 00:00:31] Evento: Servidor escuchando en el puerto.
+[2024-10-23 00:00:39] Evento: Nueva conexión desde 127.0.0.1:56850
+[2024-10-23 00:00:40] Evento: Nueva conexión desde 127.0.0.1:56854
+[2024-10-23 00:00:40] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:00:45] Evento: Nueva conexión desde 127.0.0.1:41790
+[2024-10-23 00:00:45] Evento: Nueva conexión desde 127.0.0.1:41794
+[2024-10-23 00:00:45] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:00:52] Evento: Nueva conexión desde 127.0.0.1:41806
+[2024-10-23 00:00:52] Evento: Nueva conexión desde 127.0.0.1:41812
+[2024-10-23 00:00:52] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:01:57] Evento: Nueva conexión desde 127.0.0.1:38226
+[2024-10-23 00:01:57] Evento: Nueva conexión desde 127.0.0.1:38234
+[2024-10-23 00:01:57] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:02:06] Evento: Nueva conexión desde 127.0.0.1:41182
+[2024-10-23 00:02:06] Evento: Nueva conexión desde 127.0.0.1:41198
+[2024-10-23 00:02:06] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:02:11] Evento: Nueva conexión desde 127.0.0.1:41206
+[2024-10-23 00:02:12] Evento: Nueva conexión desde 127.0.0.1:41216
+[2024-10-23 00:02:12] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:02:19] Evento: Nueva conexión desde 127.0.0.1:44616
+[2024-10-23 00:02:19] Evento: Nueva conexión desde 127.0.0.1:44622
+[2024-10-23 00:02:19] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:02:19] Evento: Nueva conexión desde 127.0.0.1:44628
+[2024-10-23 00:02:19] Evento: Nueva conexión desde 127.0.0.1:44640
+[2024-10-23 00:02:19] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:02:19] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:02:19] Evento: Nueva conexión desde 127.0.0.1:44644
+[2024-10-23 00:02:19] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:02:26] Evento: Nueva conexión desde 127.0.0.1:54384
+[2024-10-23 00:02:26] Evento: Nueva conexión desde 127.0.0.1:54388
+[2024-10-23 00:02:26] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:02:26] Evento: Nueva conexión desde 127.0.0.1:54396
+[2024-10-23 00:02:26] Evento: Nueva conexión desde 127.0.0.1:54406
+[2024-10-23 00:02:26] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:02:26] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:02:26] Evento: Nueva conexión desde 127.0.0.1:54412
+[2024-10-23 00:02:26] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:02:35] Evento: Nueva conexión desde 127.0.0.1:54948
+[2024-10-23 00:02:35] Evento: Nueva conexión desde 127.0.0.1:54964
+[2024-10-23 00:02:35] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:02:48] Evento: Nueva conexión desde 127.0.0.1:55006
+[2024-10-23 00:02:48] Evento: Nueva conexión desde 127.0.0.1:55018
+[2024-10-23 00:02:48] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:03:26] Evento: Nueva conexión desde 127.0.0.1:42454
+[2024-10-23 00:03:26] Evento: Nueva conexión desde 127.0.0.1:42466
+[2024-10-23 00:03:26] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:05:05] Evento: Iniciando el servidor...
+[2024-10-23 00:05:05] Evento: Servidor escuchando en el puerto.
+[2024-10-23 00:05:17] Evento: Nueva conexión desde 127.0.0.1:48088
+[2024-10-23 00:05:17] Evento: Nueva conexión desde 127.0.0.1:48092
+[2024-10-23 00:05:17] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:05:17] Evento: Nueva conexión desde 127.0.0.1:48096
+[2024-10-23 00:05:17] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:05:17] Evento: Nueva conexión desde 127.0.0.1:48100
+[2024-10-23 00:05:17] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:05:17] Evento: Nueva conexión desde 127.0.0.1:48116
+[2024-10-23 00:05:17] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:05:37] Evento: Nueva conexión desde 127.0.0.1:60248
+[2024-10-23 00:05:37] Evento: Nueva conexión desde 127.0.0.1:60262
+[2024-10-23 00:05:37] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:05:37] Evento: Nueva conexión desde 127.0.0.1:60270
+[2024-10-23 00:05:37] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:05:37] Evento: Nueva conexión desde 127.0.0.1:60282
+[2024-10-23 00:05:37] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:05:40] Evento: Nueva conexión desde 127.0.0.1:60286
+[2024-10-23 00:05:40] Evento: Nueva conexión desde 127.0.0.1:60288
+[2024-10-23 00:05:40] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:05:41] Evento: Nueva conexión desde 127.0.0.1:60294
+[2024-10-23 00:05:41] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:05:41] Evento: Nueva conexión desde 127.0.0.1:60310
+[2024-10-23 00:05:41] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:06:11] Evento: Nueva conexión desde 127.0.0.1:44512
+[2024-10-23 00:06:11] Evento: Nueva conexión desde 127.0.0.1:44514
+[2024-10-23 00:06:11] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:07:31] Evento: Nueva conexión desde 127.0.0.1:57982
+[2024-10-23 00:07:31] Evento: Nueva conexión desde 127.0.0.1:57988
+[2024-10-23 00:07:31] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:07:48] Evento: Nueva conexión desde 127.0.0.1:50130
+[2024-10-23 00:07:48] Evento: Nueva conexión desde 127.0.0.1:50132
+[2024-10-23 00:07:48] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:07:52] Evento: Nueva conexión desde 127.0.0.1:50142
+[2024-10-23 00:07:53] Evento: Nueva conexión desde 127.0.0.1:50156
+[2024-10-23 00:07:53] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:07:55] Evento: Nueva conexión desde 127.0.0.1:57980
+[2024-10-23 00:07:55] Evento: Nueva conexión desde 127.0.0.1:57992
+[2024-10-23 00:07:55] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:07:57] Evento: Nueva conexión desde 127.0.0.1:57994
+[2024-10-23 00:07:57] Evento: Nueva conexión desde 127.0.0.1:57996
+[2024-10-23 00:07:57] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:13:40] Evento: Nueva conexión desde 127.0.0.1:46722
+[2024-10-23 00:13:40] Evento: Nueva conexión desde 127.0.0.1:46724
+[2024-10-23 00:13:40] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:13:40] Evento: Nueva conexión desde 127.0.0.1:46730
+[2024-10-23 00:13:50] Evento: Iniciando el servidor...
+[2024-10-23 00:13:51] Evento: Iniciando el servidor...
+[2024-10-23 00:13:51] Evento: Iniciando el servidor...
+[2024-10-23 00:13:52] Evento: Iniciando el servidor...
+[2024-10-23 00:13:53] Evento: Iniciando el servidor...
+[2024-10-23 00:13:54] Evento: Iniciando el servidor...
+[2024-10-23 00:13:54] Evento: Iniciando el servidor...
+[2024-10-23 00:13:55] Evento: Iniciando el servidor...
+[2024-10-23 00:14:00] Evento: Iniciando el servidor...
+[2024-10-23 00:14:01] Evento: Iniciando el servidor...
+[2024-10-23 00:14:14] Evento: Iniciando el servidor...
+[2024-10-23 00:14:15] Evento: Iniciando el servidor...
+[2024-10-23 00:15:16] Evento: Iniciando el servidor...
+[2024-10-23 00:15:16] Evento: Servidor escuchando en el puerto.
+[2024-10-23 00:15:22] Evento: Nueva conexión desde 127.0.0.1:56666
+[2024-10-23 00:15:22] Evento: Nueva conexión desde 127.0.0.1:56674
+[2024-10-23 00:15:22] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:15:22] Evento: Nueva conexión desde 127.0.0.1:56686
+[2024-10-23 00:15:22] Evento: Nueva conexión desde 127.0.0.1:56692
+[2024-10-23 00:15:22] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:15:22] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:15:22] Evento: Nueva conexión desde 127.0.0.1:56696
+[2024-10-23 00:15:22] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:15:27] Evento: Nueva conexión desde 127.0.0.1:42614
+[2024-10-23 00:15:27] Evento: Nueva conexión desde 127.0.0.1:42622
+[2024-10-23 00:15:27] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:15:27] Evento: Nueva conexión desde 127.0.0.1:42626
+[2024-10-23 00:15:27] Evento: Nueva conexión desde 127.0.0.1:42640
+[2024-10-23 00:15:27] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:15:27] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:15:27] Evento: Nueva conexión desde 127.0.0.1:42650
+[2024-10-23 00:15:27] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:15:32] Evento: Nueva conexión desde 127.0.0.1:42660
+[2024-10-23 00:15:32] Evento: Nueva conexión desde 127.0.0.1:42668
+[2024-10-23 00:15:32] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:15:32] Evento: Nueva conexión desde 127.0.0.1:42676
+[2024-10-23 00:15:32] Evento: Nueva conexión desde 127.0.0.1:42692
+[2024-10-23 00:16:34] Evento: Iniciando el servidor...
+[2024-10-23 00:16:34] Evento: Servidor escuchando en el puerto.
+[2024-10-23 00:16:40] Evento: Nueva conexión desde 127.0.0.1:48438
+[2024-10-23 00:16:40] Evento: Nueva conexión desde 127.0.0.1:48454
+[2024-10-23 00:16:40] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:16:40] Evento: Nueva conexión desde 127.0.0.1:48468
+[2024-10-23 00:16:40] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:16:40] Evento: Nueva conexión desde 127.0.0.1:48484
+[2024-10-23 00:16:40] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:16:40] Evento: Nueva conexión desde 127.0.0.1:48496
+[2024-10-23 00:16:40] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:16:46] Evento: Nueva conexión desde 127.0.0.1:60864
+[2024-10-23 00:16:46] Evento: Nueva conexión desde 127.0.0.1:60876
+[2024-10-23 00:16:46] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:16:46] Evento: Nueva conexión desde 127.0.0.1:60886
+[2024-10-23 00:16:46] Evento: Nueva conexión desde 127.0.0.1:60900
+[2024-10-23 00:16:46] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:16:46] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:16:46] Evento: Nueva conexión desde 127.0.0.1:60912
+[2024-10-23 00:16:46] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:21:16] Evento: Nueva conexión desde 127.0.0.1:49478
+[2024-10-23 00:21:16] Evento: Nueva conexión desde 127.0.0.1:49482
+[2024-10-23 00:21:16] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:21:16] Evento: Nueva conexión desde 127.0.0.1:49486
+[2024-10-23 00:21:16] Evento: Nueva conexión desde 127.0.0.1:49494
+[2024-10-23 00:21:16] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:21:16] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:21:16] Evento: Nueva conexión desde 127.0.0.1:49506
+[2024-10-23 00:21:16] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:21:20] Evento: Nueva conexión desde 127.0.0.1:49508
+[2024-10-23 00:21:20] Evento: Nueva conexión desde 127.0.0.1:49522
+[2024-10-23 00:21:20] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:21:20] Evento: Nueva conexión desde 127.0.0.1:49524
+[2024-10-23 00:21:20] Evento: Nueva conexión desde 127.0.0.1:49538
+[2024-10-23 00:21:20] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:21:20] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:21:20] Evento: Nueva conexión desde 127.0.0.1:49552
+[2024-10-23 00:21:20] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:21:25] Evento: Nueva conexión desde 127.0.0.1:52334
+[2024-10-23 00:21:25] Evento: Nueva conexión desde 127.0.0.1:52336
+[2024-10-23 00:21:25] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:21:25] Evento: Nueva conexión desde 127.0.0.1:52352
+[2024-10-23 00:21:25] Evento: Nueva conexión desde 127.0.0.1:52360
+[2024-10-23 00:21:25] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:21:25] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:21:25] Evento: Nueva conexión desde 127.0.0.1:52366
+[2024-10-23 00:21:25] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:21:29] Evento: Nueva conexión desde 127.0.0.1:52378
+[2024-10-23 00:21:29] Evento: Nueva conexión desde 127.0.0.1:52390
+[2024-10-23 00:21:29] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:21:29] Evento: Nueva conexión desde 127.0.0.1:52392
+[2024-10-23 00:21:29] Evento: Nueva conexión desde 127.0.0.1:52404
+[2024-10-23 00:21:29] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:21:29] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:21:29] Evento: Nueva conexión desde 127.0.0.1:52414
+[2024-10-23 00:21:29] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:21:33] Evento: Nueva conexión desde 127.0.0.1:41956
+[2024-10-23 00:21:33] Evento: Nueva conexión desde 127.0.0.1:41966
+[2024-10-23 00:21:33] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:21:33] Evento: Nueva conexión desde 127.0.0.1:41974
+[2024-10-23 00:21:33] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:21:33] Evento: Nueva conexión desde 127.0.0.1:41984
+[2024-10-23 00:21:33] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:21:33] Evento: Nueva conexión desde 127.0.0.1:42000
+[2024-10-23 00:21:33] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:22:02] Evento: Nueva conexión desde 127.0.0.1:54816
+[2024-10-23 00:22:02] Evento: Nueva conexión desde 127.0.0.1:54832
+[2024-10-23 00:22:02] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:22:02] Evento: Nueva conexión desde 127.0.0.1:54848
+[2024-10-23 00:22:02] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:22:02] Evento: Nueva conexión desde 127.0.0.1:54862
+[2024-10-23 00:22:02] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:22:02] Evento: Nueva conexión desde 127.0.0.1:54876
+[2024-10-23 00:22:02] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:23:05] Evento: Nueva conexión desde 127.0.0.1:54306
+[2024-10-23 00:23:05] Evento: Nueva conexión desde 127.0.0.1:54318
+[2024-10-23 00:23:05] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:23:05] Evento: Nueva conexión desde 127.0.0.1:54320
+[2024-10-23 00:23:05] Evento: Nueva conexión desde 127.0.0.1:54324
+[2024-10-23 00:23:05] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:23:05] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:23:05] Evento: Nueva conexión desde 127.0.0.1:54336
+[2024-10-23 00:23:05] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:24:37] Evento: Nueva conexión desde 127.0.0.1:33520
+[2024-10-23 00:24:37] Evento: Nueva conexión desde 127.0.0.1:33528
+[2024-10-23 00:24:37] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:24:38] Evento: Nueva conexión desde 127.0.0.1:33542
+[2024-10-23 00:24:38] Evento: Nueva conexión desde 127.0.0.1:33558
+[2024-10-23 00:24:38] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:24:38] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:24:38] Evento: Nueva conexión desde 127.0.0.1:33560
+[2024-10-23 00:24:38] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:24:40] Evento: Nueva conexión desde 127.0.0.1:33562
+[2024-10-23 00:24:40] Evento: Nueva conexión desde 127.0.0.1:33576
+[2024-10-23 00:24:40] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:24:40] Evento: Nueva conexión desde 127.0.0.1:33578
+[2024-10-23 00:24:40] Evento: Nueva conexión desde 127.0.0.1:33582
+[2024-10-23 00:24:40] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:24:40] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:24:40] Evento: Nueva conexión desde 127.0.0.1:33584
+[2024-10-23 00:24:40] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:16] Evento: Nueva conexión desde 127.0.0.1:40314
+[2024-10-23 00:25:16] Evento: Nueva conexión desde 127.0.0.1:40320
+[2024-10-23 00:25:16] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:16] Evento: Nueva conexión desde 127.0.0.1:40324
+[2024-10-23 00:25:16] Evento: Nueva conexión desde 127.0.0.1:40334
+[2024-10-23 00:25:16] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:25:16] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:25:17] Evento: Nueva conexión desde 127.0.0.1:40342
+[2024-10-23 00:25:17] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:35] Evento: Nueva conexión desde 127.0.0.1:52898
+[2024-10-23 00:25:35] Evento: Nueva conexión desde 127.0.0.1:52902
+[2024-10-23 00:25:35] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:35] Evento: Nueva conexión desde 127.0.0.1:52912
+[2024-10-23 00:25:35] Evento: Nueva conexión desde 127.0.0.1:52920
+[2024-10-23 00:25:35] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:25:35] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:25:35] Evento: Nueva conexión desde 127.0.0.1:52930
+[2024-10-23 00:25:35] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:37] Evento: Nueva conexión desde 127.0.0.1:52938
+[2024-10-23 00:25:37] Evento: Nueva conexión desde 127.0.0.1:52944
+[2024-10-23 00:25:37] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:25:37] Evento: Nueva conexión desde 127.0.0.1:52950
+[2024-10-23 00:25:37] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:25:37] Evento: Nueva conexión desde 127.0.0.1:52966
+[2024-10-23 00:25:37] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:25:37] Evento: Nueva conexión desde 127.0.0.1:52974
+[2024-10-23 00:25:37] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:40] Evento: Nueva conexión desde 127.0.0.1:52982
+[2024-10-23 00:25:40] Evento: Nueva conexión desde 127.0.0.1:52988
+[2024-10-23 00:25:40] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:25:40] Evento: Nueva conexión desde 127.0.0.1:52992
+[2024-10-23 00:25:40] Evento: Nueva conexión desde 127.0.0.1:53002
+[2024-10-23 00:25:40] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:25:40] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:25:40] Evento: Nueva conexión desde 127.0.0.1:53010
+[2024-10-23 00:25:40] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:42] Evento: Nueva conexión desde 127.0.0.1:53020
+[2024-10-23 00:25:42] Evento: Nueva conexión desde 127.0.0.1:53022
+[2024-10-23 00:25:42] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:42] Evento: Nueva conexión desde 127.0.0.1:53030
+[2024-10-23 00:25:42] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:25:42] Evento: Nueva conexión desde 127.0.0.1:53038
+[2024-10-23 00:25:42] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:25:42] Evento: Nueva conexión desde 127.0.0.1:53044
+[2024-10-23 00:25:42] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:45] Evento: Nueva conexión desde 127.0.0.1:59498
+[2024-10-23 00:25:45] Evento: Nueva conexión desde 127.0.0.1:59506
+[2024-10-23 00:25:45] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:25:45] Evento: Nueva conexión desde 127.0.0.1:59520
+[2024-10-23 00:25:45] Evento: Nueva conexión desde 127.0.0.1:59524
+[2024-10-23 00:25:45] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:25:45] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:25:45] Evento: Nueva conexión desde 127.0.0.1:59538
+[2024-10-23 00:25:45] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:47] Evento: Nueva conexión desde 127.0.0.1:59544
+[2024-10-23 00:25:47] Evento: Nueva conexión desde 127.0.0.1:59552
+[2024-10-23 00:25:47] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:47] Evento: Nueva conexión desde 127.0.0.1:59554
+[2024-10-23 00:25:47] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:25:47] Evento: Nueva conexión desde 127.0.0.1:59558
+[2024-10-23 00:25:47] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:25:47] Evento: Nueva conexión desde 127.0.0.1:59568
+[2024-10-23 00:25:47] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:49] Evento: Nueva conexión desde 127.0.0.1:59582
+[2024-10-23 00:25:49] Evento: Nueva conexión desde 127.0.0.1:59590
+[2024-10-23 00:25:49] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:25:49] Evento: Nueva conexión desde 127.0.0.1:59596
+[2024-10-23 00:25:49] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:25:49] Evento: Nueva conexión desde 127.0.0.1:59602
+[2024-10-23 00:25:49] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:25:49] Evento: Nueva conexión desde 127.0.0.1:59618
+[2024-10-23 00:25:49] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:52] Evento: Nueva conexión desde 127.0.0.1:59630
+[2024-10-23 00:25:52] Evento: Nueva conexión desde 127.0.0.1:59632
+[2024-10-23 00:25:52] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:25:52] Evento: Nueva conexión desde 127.0.0.1:59636
+[2024-10-23 00:25:52] Evento: Nueva conexión desde 127.0.0.1:59648
+[2024-10-23 00:25:52] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:25:52] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:25:52] Evento: Nueva conexión desde 127.0.0.1:59656
+[2024-10-23 00:25:52] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:52] Evento: Nueva conexión desde 127.0.0.1:59672
+[2024-10-23 00:25:52] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:54] Evento: Nueva conexión desde 127.0.0.1:49332
+[2024-10-23 00:25:54] Evento: Nueva conexión desde 127.0.0.1:49344
+[2024-10-23 00:25:54] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:54] Evento: Nueva conexión desde 127.0.0.1:49360
+[2024-10-23 00:25:54] Evento: Nueva conexión desde 127.0.0.1:49376
+[2024-10-23 00:25:54] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:25:54] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:25:54] Evento: Nueva conexión desde 127.0.0.1:49378
+[2024-10-23 00:25:54] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:25:58] Evento: Nueva conexión desde 127.0.0.1:49380
+[2024-10-23 00:25:58] Evento: Nueva conexión desde 127.0.0.1:49388
+[2024-10-23 00:25:58] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:25:58] Evento: Nueva conexión desde 127.0.0.1:49392
+[2024-10-23 00:25:58] Evento: Nueva conexión desde 127.0.0.1:49406
+[2024-10-23 00:25:58] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:25:58] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:25:58] Evento: Nueva conexión desde 127.0.0.1:49420
+[2024-10-23 00:25:58] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:26:00] Evento: Nueva conexión desde 127.0.0.1:49432
+[2024-10-23 00:26:00] Evento: Nueva conexión desde 127.0.0.1:49446
+[2024-10-23 00:26:00] Evento: Sirviendo archivo: /sitio2/index.html
+[2024-10-23 00:26:00] Evento: Nueva conexión desde 127.0.0.1:49458
+[2024-10-23 00:26:00] Evento: Nueva conexión desde 127.0.0.1:49464
+[2024-10-23 00:26:00] Evento: Sirviendo archivo: /sitio2/stylesitio2.css
+[2024-10-23 00:26:00] Evento: Sirviendo archivo: /sitio2/scriptsitio2.js
+[2024-10-23 00:26:00] Evento: Nueva conexión desde 127.0.0.1:49474
+[2024-10-23 00:26:00] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:26:03] Evento: Nueva conexión desde 127.0.0.1:49478
+[2024-10-23 00:26:03] Evento: Nueva conexión desde 127.0.0.1:49494
+[2024-10-23 00:26:03] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:26:03] Evento: Nueva conexión desde 127.0.0.1:49498
+[2024-10-23 00:26:03] Evento: Nueva conexión desde 127.0.0.1:49508
+[2024-10-23 00:26:03] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:26:03] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:26:03] Evento: Nueva conexión desde 127.0.0.1:49518
+[2024-10-23 00:26:03] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:26:18] Evento: Nueva conexión desde 127.0.0.1:42592
+[2024-10-23 00:26:18] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:28:19] Evento: Nueva conexión desde 127.0.0.1:38222
+[2024-10-23 00:28:19] Evento: Nueva conexión desde 127.0.0.1:38232
+[2024-10-23 00:28:19] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:28:22] Evento: Nueva conexión desde 127.0.0.1:38248
+[2024-10-23 00:28:22] Evento: Nueva conexión desde 127.0.0.1:38262
+[2024-10-23 00:28:22] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:28:29] Evento: Nueva conexión desde 127.0.0.1:59970
+[2024-10-23 00:28:29] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:28:29] Evento: Nueva conexión desde 127.0.0.1:59972
+[2024-10-23 00:28:29] Evento: Nueva conexión desde 127.0.0.1:59980
+[2024-10-23 00:28:29] Evento: Sirviendo archivo: /sitio3/style.css
+[2024-10-23 00:28:29] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:28:29] Evento: Nueva conexión desde 127.0.0.1:59992
+[2024-10-23 00:28:29] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:28:42] Evento: Nueva conexión desde 127.0.0.1:47486
+[2024-10-23 00:28:42] Evento: Nueva conexión desde 127.0.0.1:47488
+[2024-10-23 00:28:42] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:28:47] Evento: Nueva conexión desde 127.0.0.1:39350
+[2024-10-23 00:28:47] Evento: Nueva conexión desde 127.0.0.1:39366
+[2024-10-23 00:28:47] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:30:37] Evento: Nueva conexión desde 127.0.0.1:36886
+[2024-10-23 00:30:37] Evento: Nueva conexión desde 127.0.0.1:36896
+[2024-10-23 00:30:37] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:30:37] Evento: Nueva conexión desde 127.0.0.1:36900
+[2024-10-23 00:30:37] Evento: Sirviendo archivo: /sitio1/stylesitio1.css
+[2024-10-23 00:30:37] Evento: Nueva conexión desde 127.0.0.1:36916
+[2024-10-23 00:30:37] Evento: Sirviendo archivo: /sitio1/scriptsitio1.js
+[2024-10-23 00:30:38] Evento: Nueva conexión desde 127.0.0.1:36922
+[2024-10-23 00:30:38] Evento: Sirviendo archivo: /favicon.ico
+[2024-10-23 00:30:43] Evento: Nueva conexión desde 127.0.0.1:36926
+[2024-10-23 00:30:43] Evento: Nueva conexión desde 127.0.0.1:36928
+[2024-10-23 00:30:43] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:30:47] Evento: Nueva conexión desde 127.0.0.1:59030
+[2024-10-23 00:30:47] Evento: Nueva conexión desde 127.0.0.1:59036
+[2024-10-23 00:30:47] Evento: Sirviendo archivo: /sitio1/index.html
+[2024-10-23 00:30:54] Evento: Nueva conexión desde 127.0.0.1:41166
+[2024-10-23 00:30:54] Evento: Nueva conexión desde 127.0.0.1:41180
+[2024-10-23 00:30:54] Evento: Sirviendo archivo: /sitio3/index.html
+[2024-10-23 00:30:54] Evento: Nueva conexión desde 127.0.0.1:41188
+[2024-10-23 00:30:54] Evento: Sirviendo archivo: /sitio3/script.js
+[2024-10-23 00:30:54] Evento: Nueva conexión desde 127.0.0.1:41190
+[2024-10-23 00:30:54] Evento: Sirviendo archivo: /sitio3/style.css

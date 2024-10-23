@@ -3,21 +3,34 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Página de Prueba</title>
-    <link rel="stylesheet" href="style.css"> <!-- Enlace al archivo CSS -->
+    <title>Selector de Nombres Aleatorio</title>
+    <link rel="stylesheet" href="style.css">
 </head>
 <body>
     <header>
-        <h1>Bienvenido a mi página de prueba</h1>
+        <h1>Selector Aleatorio de Nombres</h1>
+        <p>Ingresa los nombres y selecciona uno al azar</p>
     </header>
 
-    <main>
-        <p>Este es un ejemplo de una página web sencilla con HTML, CSS y JavaScript.</p>
-        <button id="miBoton">Haz clic aquí</button>
-    </main>
+    <section id="inputSection">
+        <h2>Agrega nombres a la lista</h2>
+        <input type="text" id="nameInput" placeholder="Ingresa un nombre">
+        <button id="addButton">Agregar</button>
+    </section>
+
+    <section id="nameListSection">
+        <h2>Lista de Nombres</h2>
+        <ul id="nameList"></ul>
+    </section>
+
+    <section id="randomSelectSection">
+        <h2>Elegir un nombre al azar</h2>
+        <button id="selectButton">Elegir Nombre</button>
+        <p id="selectedName"></p>
+    </section>
 
     <footer>
-        <p>&copy; 2024 Mi Sitio Web</p>
+        <p>¡Diviértete seleccionando nombres al azar!</p>
     </footer>
 
     <script src="script.js"></script>

@@ -1,9 +1,9 @@
-dependencias = lib/server_functions.c lib/log.c lib/server_handle_cli.c lib/http_status_codes.c lib/file_handler.c
+dependencias = lib/server_functions.c lib/log.c lib/server_handle_cli.c lib/http_status_codes.c lib/file_handler.c lib/queue.c
 
 all: servidor
 
-servidor: main.o lib/server_functions.o lib/log.o lib/server_handle_cli.o lib/http_status_codes.o lib/file_handler.o
-	gcc -o servidor main.o lib/server_functions.o lib/log.o lib/server_handle_cli.o lib/http_status_codes.o lib/file_handler.o
+servidor: main.o lib/server_functions.o lib/log.o lib/server_handle_cli.o lib/http_status_codes.o lib/file_handler.o lib/queue.o
+	gcc -o servidor main.o lib/server_functions.o lib/log.o lib/server_handle_cli.o lib/http_status_codes.o lib/file_handler.o lib/queue.o -pthread
 
 main.o: main.c
 	gcc -c -o main.o main.c
@@ -22,6 +22,9 @@ lib/http_status_codes.o: lib/http_status_codes.c
 
 lib/file_handler.o: lib/file_handler.c
 	gcc -c -o lib/file_handler.o lib/file_handler.c
+
+lib/queue.o: lib/queue.c  # Nueva regla para compilar queue.c
+	gcc -c -o lib/queue.o lib/queue.c
 
 clean:
 	rm -f main.o lib/*.o servidor

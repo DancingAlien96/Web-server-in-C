@@ -7,6 +7,7 @@
 #include <stdlib.h>  
 #include "file_handler.h"    
 #include "http_status_codes.h" 
+#include <time.h>  // Para srand() y rand()
 
 void srv_handle_client(int client_socket) {
     char buffer[BUFFER_SIZE];
@@ -21,6 +22,35 @@ void srv_handle_client(int client_socket) {
 
     http_req req;
     parse_request(buffer, &req);
+
+    // Redirigir si la solicitud es a la raíz "/"
+    if (strcmp(req.url, "/") == 0) {
+        srand(time(NULL));  // Inicializar generador de números aleatorios
+        int random_site = rand() % 3 + 1;  // Generar un número aleatorio entre 1 y 3
+        char redirect_url[256];
+
+        // Asignar la URL de redirección según el número aleatorio
+        if (random_site == 1) {
+            strcpy(redirect_url, "/sitio1/index.html");
+        } else if (random_site == 2) {
+            strcpy(redirect_url, "/sitio2/index.html");
+        } else {
+            strcpy(redirect_url, "/sitio3/index.html");
+        }
+
+        // Construir la respuesta HTTP de redirección (302 Found)
+        char response[512];
+        snprintf(response, sizeof(response),
+                 "HTTP/1.1 302 Found\r\n"
+                 "Location: %s\r\n"
+                 "Content-Length: 0\r\n"
+                 "Connection: close\r\n\r\n",
+                 redirect_url);
+
+        send(client_socket, response, strlen(response), 0);
+        close(client_socket);
+        return;  // Finaliza el manejo de esta conexión
+    }
 
     int http_code;
     char *content = NULL;
@@ -54,13 +84,10 @@ void parse_request(const char *request, http_req *req) {
     sscanf(request, "%s %s", req->method, req->url);
 }
 
-
-
 void http_response(int client_socket, int http_code, const char *content_type, const char *body) {
     char response[BUFFER_SIZE]; 
     const char *status_message = get_status_message(http_code);
     int content_length = strlen(body);
-
 
     snprintf(response, sizeof(response),
         "HTTP/1.1 %d %s\r\n"

@@ -21,7 +21,7 @@ int get_file_contents(const char *url, char **content, int *http_code) {
     file = fopen(path, "rb");
     if (file == NULL) {
         *http_code = 404;
-        return -1;  // Devuelve error si no se puede abrir el archivo
+        return -1;  // Devuelve error si no se puede abrir el archivo--
     }
 
     // Lee el archivo en el buffer

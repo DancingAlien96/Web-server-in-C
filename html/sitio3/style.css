@@ -1,51 +1,77 @@
-/* Estilos para el cuerpo de la página */
+/* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    font-family: 'Arial', sans-serif;
+    background: linear-gradient(45deg,
+    #0099f7,  #f11712);
+    color: #333;
     margin: 0;
     padding: 0;
-    color: #333;
-}
-
-/* Estilo del encabezado */
-header {
-    background-color: #4CAF50;
-    color: white;
     text-align: center;
-    padding: 1em 0;
 }
 
-/* Estilos para el contenido principal */
-main {
-    margin: 20px;
+header {
+    background-color: transparent;
     padding: 20px;
-    background-color: #fff;
-    border-radius: 5px;
+    color: white;
+}
+
+header h1 {
+    margin: 0;
+    font-size: 2.5em;
+}
+
+header p {
+    font-size: 1.2em;
+    margin-top: 10px;
+}
+
+section {
+    padding: 20px;
+    margin: 20px;
+    background-color: transparent;
     box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilo del botón */
+#nameInput {
+    padding: 10px;
+    font-size: 1.2em;
+    width: 50%;
+    margin-right: 10px;
+}
+
 button {
     padding: 10px 20px;
-    font-size: 16px;
-    background-color: #4CAF50;
+    background-color: #0099F7;
     color: white;
     border: none;
-    border-radius: 5px;
     cursor: pointer;
+    font-size: 1.2em;
 }
 
 button:hover {
-    background-color: #45a049;
+    background-color: #0099F7;
 }
 
-/* Estilos del pie de página */
+#nameList {
+    list-style-type: none;
+    padding: 0;
+}
+
+#nameList li {
+    font-size: 1.5em;
+    margin: 10px 0;
+    color: #333;
+}
+
+#selectedName {
+    font-size: 2em;
+    color: #0099F7;
+    margin-top: 20px;
+}
+
 footer {
-    text-align: center;
-    padding: 10px 0;
     background-color: #333;
-    color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    color:#0099F7;
+    padding: 10px;
+    font-size: 0.9em;
 }

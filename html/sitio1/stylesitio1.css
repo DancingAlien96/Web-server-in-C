@@ -1,55 +1,85 @@
-/* Estilos para el cuerpo de la página */
+/* Estilos generales */
 body {
-    font-family: Arial, sans-serif;
-    background-color: #f4f4f9;
+    font-family: 'Arial', sans-serif;
+    background-color: #0b1e36;
+    color: #e0e0e0;
     margin: 0;
     padding: 0;
-    color: #333;
-}
-
-/* Estilo del encabezado */
-header {
-    background-color: #4CAF50;
-    color: white;
     text-align: center;
-    padding: 1em 0;
 }
 
-/* Estilos para el contenido principal */
-main {
-    margin: 20px;
+header {
+    background-color: #1f4068;
     padding: 20px;
-    background-color: #fff;
-    border-radius: 5px;
-    box-shadow: 0px 0px 10px rgba(0, 0, 0, 0.1);
 }
 
-/* Estilo del botón */
-button {
-    padding: 10px 20px;
-    font-size: 16px;
-    background-color: #4CAF50;
-    color: white;
-    border: none;
-    border-radius: 5px;
+header h1 {
+    margin: 0;
+    font-size: 3em;
+    color: #e0e0e0;
+}
+
+header p {
+    font-size: 1.2em;
+    color: #a0e7e5;
+}
+
+#aliens {
+    padding: 20px;
+    background-color: #162447;
+}
+
+#aliens h2 {
+    color: #f7d794;
+    font-size: 2em;
+}
+
+#aliens ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+#aliens li {
+    font-size: 1.5em;
+    margin: 10px 0;
     cursor: pointer;
 }
 
-button:hover {
-    background-color: #45a049;
+#aliens li:hover {
+    color: #a0e7e5;
 }
 
-/* Estilos del pie de página */
-footer {
-    text-align: center;
-    padding: 10px 0;
-    background-color: #333;
+#interaction {
+    background-color: #1b1b2f;
+    padding: 20px;
+}
+
+#interaction h2 {
+    color: #f7d794;
+}
+
+#interaction button {
+    padding: 10px 20px;
+    background-color: #e43f5a;
     color: white;
-    position: fixed;
-    width: 100%;
-    bottom: 0;
+    border: none;
+    cursor: pointer;
+    font-size: 1.2em;
 }
 
-img{
-    max-width: 100%;
+#interaction button:hover {
+    background-color: #ff165d;
+}
+
+#result {
+    font-size: 1.5em;
+    margin-top: 20px;
+    color: #f7d794;
+}
+
+footer {
+    background-color: #1f4068;
+    padding: 10px;
+    color: #e0e0e0;
+    font-size: 0.9em;
 }
